@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **mralfayed@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/fyd06](www.linkedin.com/in/fyd06)
-
 - ⚡ Fun fact **I'm a Professional college Deadliner.**
 
 <h3 align="left">Connect with me:</h3>
