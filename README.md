@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayed06&label=Profile%20views&color=0e75b6&style=flat" alt="fayed06" /> </p>
 
-- 🔭 I’m currently working on [TugasAkhirRPL-BE](https://github.com/Fayed06/TugasAkhirRPL-BE)
+- 🔭 I’m currently working on [Bangkit Assigment](https://github.com/Fayed06/README.md)
 
 - 🌱 I’m currently learning **NestJS,Go and React**
 
