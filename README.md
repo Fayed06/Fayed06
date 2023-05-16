@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **NestJS,Go and React**
 
-- 👯 I’m looking to collaborate on [TugasAkhirRPL-BE](https://github.com/Fayed06/TugasAkhirRPL-BE)
-
-- 🤝 I’m looking for help with [TugasAkhirRPL-BE](https://github.com/Fayed06/TugasAkhirRPL-BE)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Fayed06?tab=repositories](https://github.com/Fayed06?tab=repositories)
 
 - 💬 Ask me about **laravel, firebase and expressJS**
