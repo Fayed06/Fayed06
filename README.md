@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fayed</h1>
-<h3 align="center">A fullstack developer wannabe</h3>
+<h3 align="center">A tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayed06&label=Profile%20views&color=0e75b6&style=flat" alt="fayed06" /> </p>
 
