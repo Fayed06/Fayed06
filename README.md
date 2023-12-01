@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mralfayed@gmail.com**
 
-- ⚡ Fun fact **I'm a Professional college Deadliner.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
